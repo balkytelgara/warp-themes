@@ -1,0 +1,23 @@
+accent: "#FD971F" # Monokai accent color
+background: "#272822" # Monokai background color
+details: darker # Assuming darker theme
+foreground: "#F8F8F2" # Monokai foreground color
+terminal_colors:
+  bright:
+    black: "#75715E"
+    blue: "#66D9EF"
+    cyan: "#A6E22E"
+    green: "#A6E22E"
+    magenta: "#F92672"
+    red: "#F92672"
+    white: "#F8F8F2"
+    yellow: "#E6DB74"
+  normal:
+    black: "#272822"
+    blue: "#66D9EF"
+    cyan: "#A6E22E"
+    green: "#A6E22E"
+    magenta: "#FD971F"
+    red: "#F92672"
+    white: "#F8F8F2"
+    yellow: "#E6DB74"
